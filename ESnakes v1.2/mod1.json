@@ -1,0 +1,9 @@
+{
+  "widget": 600,
+  "height": 600,
+  "speed": 100,
+  "resolution": 16,
+  "life": 40,
+  "icon": "src/com/egoism/ui/image/icon.png",
+  "files": "src/com/egoism/ui/image/"
+}
